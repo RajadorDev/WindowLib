@@ -103,3 +103,6 @@ $window->getInventory()->getPage()->setCloseListener(
     }
 );
 ```
+
+**Example result:**
+![Example result](assets/window_example.png)
