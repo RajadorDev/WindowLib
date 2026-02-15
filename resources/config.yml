@@ -1,0 +1,7 @@
+---
+# Enable/disable developer mode
+developer-mode: false
+
+# Mensagem enviada quando a posição do jogador não é valida para abrir a window
+invalid-window-position-message: '§cNão foi possível abrir a window nesta posição!'
+...

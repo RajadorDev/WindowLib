@@ -1,0 +1,10 @@
+---
+name: WindowLib
+description: Biblioteca compartilhada de menu interativo para pocketmine
+author: Rajador
+discord: rajadortv
+api: 2.0.0
+depend: [SmartCommand, AutoPluginUpdater]
+version: 1.0.0
+main: 'windowlib\WindowLibLoader'
+...
